@@ -1,0 +1,2801 @@
+[
+  {
+    "category": "EA",
+    "series": "Battlefield",
+    "question": "Battlefield е пряк конкурент на коя друга поредица шутъри?",
+    "answers": [
+      "Call of Duty",
+      "Halo",
+      "Doom",
+      "Gears of War"
+    ],
+    "correctAnswer": "Call of Duty",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Croteam",
+    "series": "Serious Sam",
+    "question": "Croteam е геймдизайн студио от коя държава?",
+    "answers": [
+      "Хърватия",
+      "Полша",
+      "Чехия",
+      "Словения"
+    ],
+    "correctAnswer": "Хърватия",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Rockstar",
+    "series": "Red Dead Redemption",
+    "question": "Коя игра на Rockstar разказва за банда каубои в дивия запад, преди GTA V?",
+    "answers": [
+      "Red Dead Redemption",
+      "Bully",
+      "Max Payne",
+      "Midnight Club"
+    ],
+    "correctAnswer": "Red Dead Redemption",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Rockstar",
+    "series": "L.A. Noire",
+    "question": "L.A. Noire се развива в американски град през 40-те години, а именно:",
+    "answers": [
+      "Лос Анджелис",
+      "Чикаго",
+      "Ню Йорк",
+      "Маями"
+    ],
+    "correctAnswer": "Лос Анджелис",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Rockstar",
+    "series": "Grand Theft Auto",
+    "question": "Главният герой в GTA: San Andreas се казва:",
+    "answers": [
+      "Carl Johnson",
+      "Tommy Vercetti",
+      "Niko Bellic",
+      "Michael De Santa"
+    ],
+    "correctAnswer": "Carl Johnson",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Xbox",
+    "series": "Halo",
+    "question": "Главният герой във Halo е известен като:",
+    "answers": [
+      "Master Chief",
+      "Marcus Fenix",
+      "Sergeant Johnson",
+      "Noble Six"
+    ],
+    "correctAnswer": "Master Chief",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Xbox",
+    "series": "Gears, Fable & Sea of Thieves",
+    "question": "Sea of Thieves поставя играчите в ролята на:",
+    "answers": [
+      "Пирати",
+      "Войници",
+      "Космонавти",
+      "Детективи"
+    ],
+    "correctAnswer": "Пирати",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Valve",
+    "series": "Half-Life & Portal",
+    "question": "Главният герой от Half-Life се казва:",
+    "answers": [
+      "Gordon Freeman",
+      "Alyx Vance",
+      "Barney Calhoun",
+      "Adrian Shephard"
+    ],
+    "correctAnswer": "Gordon Freeman",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Valve",
+    "series": "Counter-Strike & Dota 2",
+    "question": "Counter-Strike е тактически шутър от:",
+    "answers": [
+      "Първо лице",
+      "Трето лице",
+      "Изометрична перспектива",
+      "Странична перспектива (2D)"
+    ],
+    "correctAnswer": "Първо лице",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Valve",
+    "series": "Counter-Strike & Dota 2",
+    "question": "Dota 2 принадлежи към жанра:",
+    "answers": [
+      "MOBA",
+      "RTS",
+      "Battle Royale",
+      "Survival"
+    ],
+    "correctAnswer": "MOBA",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Valve",
+    "series": "Steam",
+    "question": "Valve създава и притежава платформата за дигитална дистрибуция:",
+    "answers": [
+      "Steam",
+      "Epic Games Store",
+      "GOG",
+      "Origin"
+    ],
+    "correctAnswer": "Steam",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Bethesda",
+    "series": "The Elder Scrolls",
+    "question": "The Elder Scrolls V носи името:",
+    "answers": [
+      "Skyrim",
+      "Oblivion",
+      "Morrowind",
+      "Arena"
+    ],
+    "correctAnswer": "Skyrim",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Bethesda",
+    "series": "Fallout",
+    "question": "Подземните убежища за оцеляване във Fallout се наричат:",
+    "answers": [
+      "Vaults",
+      "Bunkers",
+      "Shelters",
+      "Silos"
+    ],
+    "correctAnswer": "Vaults",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Bethesda",
+    "series": "Starfield",
+    "question": "Starfield е игра от жанра:",
+    "answers": [
+      "Космическа RPG",
+      "Спортна симулация",
+      "Файтинг",
+      "Платформинг"
+    ],
+    "correctAnswer": "Космическа RPG",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "FromSoftware",
+    "series": "Dark Souls",
+    "question": "Dark Souls е известна преди всичко с високото си ниво на:",
+    "answers": [
+      "Трудност",
+      "Хумор",
+      "Мултиплейър режими",
+      "Цветова палитра"
+    ],
+    "correctAnswer": "Трудност",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "FromSoftware",
+    "series": "Sekiro",
+    "question": "Sekiro: Shadows Die Twice се развива във:",
+    "answers": [
+      "Феодална Япония",
+      "Средновековна Европа",
+      "Древен Рим",
+      "Пост-апокалиптична Америка"
+    ],
+    "correctAnswer": "Феодална Япония",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "RentStation",
+    "series": "Gran Turismo",
+    "question": "Gran Turismo е поредица от жанра:",
+    "answers": [
+      "Реалистична автосимулация",
+      "Аркадни състезания",
+      "Мотоциклетни състезания",
+      "Космически състезания"
+    ],
+    "correctAnswer": "Реалистична автосимулация",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "RentStation",
+    "series": "God of War",
+    "question": "Главният герой в поредицата God of War, произлизащ от гръцката митология, се казва:",
+    "answers": [
+      "Kratos",
+      "Ares",
+      "Zeus",
+      "Athena"
+    ],
+    "correctAnswer": "Kratos",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "RentStation",
+    "series": "Horizon",
+    "question": "Horizon Forbidden West е пряко продължение на:",
+    "answers": [
+      "Horizon Zero Dawn",
+      "Horizon Chase",
+      "Death Stranding",
+      "Days Gone"
+    ],
+    "correctAnswer": "Horizon Zero Dawn",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Ubisoft",
+    "series": "Assassin's Creed",
+    "question": "Assassin's Creed Valhalla се развива в ерата на:",
+    "answers": [
+      "Викингите",
+      "Ренесанса",
+      "Френската революция",
+      "Древен Египет"
+    ],
+    "correctAnswer": "Викингите",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Ubisoft",
+    "series": "Rainbow Six & Prince of Persia",
+    "question": "Rainbow Six Siege залага на:",
+    "answers": [
+      "Разрушаема среда и екипна тактика",
+      "Открит свят и проучване",
+      "Пъзели",
+      "Спортни симулации"
+    ],
+    "correctAnswer": "Разрушаема среда и екипна тактика",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Konami",
+    "series": "Silent Hill",
+    "question": "Silent Hill принадлежи към жанра:",
+    "answers": [
+      "Психологически хорър",
+      "Спортна симулация",
+      "Файтинг",
+      "RTS"
+    ],
+    "correctAnswer": "Психологически хорър",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Capcom",
+    "series": "Resident Evil",
+    "question": "Resident Evil е поредица от жанра:",
+    "answers": [
+      "Сървайвъл хорър",
+      "Платформинг",
+      "Спортна игра",
+      "Стратегия"
+    ],
+    "correctAnswer": "Сървайвъл хорър",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Capcom",
+    "series": "Street Fighter",
+    "question": "Street Fighter е емблематична поредица в жанра:",
+    "answers": [
+      "Файтинг",
+      "Хорър",
+      "RPG",
+      "Стелт"
+    ],
+    "correctAnswer": "Файтинг",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Capcom",
+    "series": "Monster Hunter",
+    "question": "Monster Hunter поставя акцент върху:",
+    "answers": [
+      "Лов на огромни чудовища",
+      "Отглеждане на градини",
+      "Управление на градове",
+      "Пилотиране на самолети"
+    ],
+    "correctAnswer": "Лов на огромни чудовища",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Riot Games",
+    "series": "League of Legends",
+    "question": "League of Legends е игра от жанра:",
+    "answers": [
+      "MOBA",
+      "Battle Royale",
+      "Survival",
+      "RTS"
+    ],
+    "correctAnswer": "MOBA",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Riot Games",
+    "series": "Valorant",
+    "question": "Valorant е тактически шутър, комбиниращ прецизна стрелба със:",
+    "answers": [
+      "Уникални способности на герои",
+      "Строене на бази",
+      "Управление на превозни средства",
+      "Магически заклинания за оцеляване"
+    ],
+    "correctAnswer": "Уникални способности на герои",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Riot Games",
+    "series": "League of Legends",
+    "question": "Анимационният сериал, базиран на League of Legends, се казва:",
+    "answers": [
+      "Arcane",
+      "Castlevania",
+      "Cyberpunk: Edgerunners",
+      "Dragon's Blood"
+    ],
+    "correctAnswer": "Arcane",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Mojang",
+    "series": "Геймплей",
+    "question": "Основната механика в Minecraft се базира на:",
+    "answers": [
+      "Добиване на ресурси и строене",
+      "Автомобилни надбягвания",
+      "Футболни мачове",
+      "Космически битки"
+    ],
+    "correctAnswer": "Добиване на ресурси и строене",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Mojang",
+    "series": "Геймплей",
+    "question": "Враждебното същество, което избухва при приближаване в Minecraft, се нарича:",
+    "answers": [
+      "Creeper",
+      "Chicken Jockey",
+      "Enderman",
+      "Skeleton"
+    ],
+    "correctAnswer": "Creeper",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Mojang",
+    "series": "Геймплей",
+    "question": "Опасното измерение с лава и огнени същества в Minecraft се нарича:",
+    "answers": [
+      "The Nether",
+      "The End",
+      "The Sift",
+      "The Void"
+    ],
+    "correctAnswer": "The Nether",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Blizzard",
+    "series": "World of Warcraft",
+    "question": "World of Warcraft е игра от жанра:",
+    "answers": [
+      "MMORPG",
+      "Battle Royale",
+      "MOBA",
+      "Шутър"
+    ],
+    "correctAnswer": "MMORPG",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Blizzard",
+    "series": "Diablo & Overwatch",
+    "question": "Overwatch е отборен шутър, фокусиран върху:",
+    "answers": [
+      "Герои с уникални способности",
+      "Реалистична балистика",
+      "Автомобилни състезания",
+      "Строене на градове"
+    ],
+    "correctAnswer": "Герои с уникални способности",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Blizzard",
+    "series": "Diablo & Overwatch",
+    "question": "Diablo е поредица от жанра:",
+    "answers": [
+      "Хак енд Слаш",
+      "Платформинг",
+      "Спортна симулация",
+      "Файтинг"
+    ],
+    "correctAnswer": "Хак енд Слаш",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Mojang",
+    "series": "Minecraft",
+    "question": "Кой е единственият начин да се сдобиете с Elytra (криле) в Minecraft в режим оцеляване?",
+    "answers": [
+      "Като победите Wither",
+      "Като ги изработите от Phantom Membranes",
+      "Като ги намерите в End Ship (Кораб в Края)",
+      "Като търгувате с Wandering Trader"
+    ],
+    "correctAnswer": "Като ги намерите в End Ship (Кораб в Края)",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Ubisoft",
+    "series": "Watch Dogs",
+    "question": "Watch Dogs се фокусира върху хакването на:",
+    "answers": [
+      "Градска инфраструктура и системи",
+      "Космически кораби",
+      "Банкови трезори",
+      "Военни бази"
+    ],
+    "correctAnswer": "Градска инфраструктура и системи",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Ubisoft",
+    "series": "Rainbow Six & Prince of Persia",
+    "question": "Prince of Persia е известна с механиката за:",
+    "answers": [
+      "Паркур",
+      "Изграждане на бази",
+      "Морски битки",
+      "Готвене"
+    ],
+    "correctAnswer": "Паркур",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Kojima Productions",
+    "series": "Death Stranding",
+    "question": "Актьорът, чието лице и глас са използвани за Sam Porter Bridges, е:",
+    "answers": [
+      "Norman Reedus",
+      "Keanu Reeves",
+      "Mads Mikkelsen",
+      "Guillermo del Toro"
+    ],
+    "correctAnswer": "Norman Reedus",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Mojang",
+    "series": "Minecraft",
+    "question": "Minecraft е създадена първоначално от шведския разработчик Markus, известен с прякора:",
+    "answers": [
+      "Notch",
+      "Steve",
+      "Herobrine",
+      "Alex"
+    ],
+    "correctAnswer": "Notch",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Kojima Productions",
+    "series": "Death Stranding",
+    "question": "Какво представляват 'Бридж бебетата' (BBs) в света на Death Stranding?",
+    "answers": [
+      "Извънземни клонинги",
+      "Деца на бременни майки в мозъчна смърт, използвани за връзка с отвъдното",
+      "Роботи-компаньони",
+      "Оръжия за масово унищожение"
+    ],
+    "correctAnswer": "Деца на бременни майки в мозъчна смърт, използвани за връзка с отвъдното",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Croteam",
+    "series": "Serious Sam",
+    "question": "Кой е първият враг, който чувате да крещи 'АААААААА' от километри разстояние в Serious Sam?",
+    "answers": [
+      "Kleer Skeleton",
+      "Sirian Werebull",
+      "Beheaded Kamikaze",
+      "Gnaar"
+    ],
+    "correctAnswer": "Beheaded Kamikaze",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Supercell",
+    "series": "Clash Royale",
+    "question": "Коя карта в Clash Royale нанася щети на врагове при придвижването си, използвайки 'Dash' механика, по време на която е напълно неуязвима?",
+    "answers": [
+      "Prince",
+      "Dark Prince",
+      "Bandit",
+      "Mega Knight"
+    ],
+    "correctAnswer": "Bandit",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Supercell",
+    "series": "Clash Royale",
+    "question": "Коя от следните карти нулира (рестартира) 'зареждащи' се атаки (като тези на Inferno Tower или Sparky) при попадение?",
+    "answers": [
+      "Fireball",
+      "Electro Wizard",
+      "Arrows",
+      "Poison"
+    ],
+    "correctAnswer": "Electro Wizard",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Supercell",
+    "series": "Clash of Clans",
+    "question": "Коя единица (Troop) в играта е известна с това, че при унищожаването си не умира веднага, а се разделя на две по-малки единици ?",
+    "answers": [
+      "Lava Hound",
+      "Ice Golem",
+      "Golem",
+      "P.E.K.K.A"
+    ],
+    "correctAnswer": "Golem",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Mojang",
+    "series": "Minecraft",
+    "question": "Какъв предмет е необходим, за да надградите диамантена броня до Netherite броня на ковашката маса (Smithing Table)?",
+    "answers": [
+      "Netherite Ingot и Template",
+      "Netherite Scrap и Gold Ingot",
+      "Netherite Ingot",
+      "Netherite Ingot и Nether Star"
+    ],
+    "correctAnswer": "Netherite Ingot и Template",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Шах",
+    "series": "Шах",
+    "question": "Какво е задължителното условие, за да може да се извърши специалният ход за вземане en passant ?",
+    "answers": [
+      "Размяна на местата на два офицера от един цвят, при която се вземат две противникови фигури между тях",
+      "Трябва да се извърши веднага, след като противникова пешка се премести с две полета напред",
+      "Вашият цар трябва да е под шах в същия момент",
+      "Трябва вашата пешка да е на предпоследния хоризонтал"
+    ],
+    "correctAnswer": "Трябва да се извърши веднага, след като противникова пешка се премести с две полета напред",
+    "difficulty": "Нормално",
+    "bonus": true
+  },
+  {
+    "category": "Шах",
+    "series": "Шах",
+    "question": "Когато пешка достигне до последния хоризонтал на дъската (промоция), в коя от следните фигури тя категорично НЕ може да се превърне?",
+    "answers": [
+      "Кон",
+      "Царица",
+      "Топ",
+      "Цар"
+    ],
+    "correctAnswer": "Цар",
+    "difficulty": "Нормално",
+    "bonus": true
+  },
+  {
+    "category": "Amanita Design",
+    "series": "Botanicula",
+    "question": "Какви точно същества са главните герои в приключенската игра Botanicula на Amanita Design?",
+    "answers": [
+      "Бактерии",
+      "Малки дървесни обитатели / растителни семенца",
+      "Обикновени горски насекоми и бръмбари",
+      "Подземни митични джуджета"
+    ],
+    "correctAnswer": "Малки дървесни обитатели / растителни семенца",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Amanita Design",
+    "series": "Samorost",
+    "question": "С какво превозно средство пътешества главният герой (Gnome) в началото на първата игра Samorost?",
+    "answers": [
+      "С малка ракета, приличаща на пухкава обувка/бутилка",
+      "С дървено кану през космическа река",
+      "С механичен велосипед с крила",
+      "С помощта на гигантско куче"
+    ],
+    "correctAnswer": "С малка ракета, приличаща на пухкава обувка/бутилка",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Amanita Design",
+    "series": "Samorost",
+    "question": "Какъв е основният конфликт, който задвижва сюжета в началото на Samorost 2?",
+    "answers": [
+      "Извънземни открадват домашното му куче",
+      "Неговият дом-планета е разрушен от астероид",
+      "Батерията на космическия му кораб се разваля",
+      "Извънземни открадват домашното му котка"
+    ],
+    "correctAnswer": "Извънземни открадват домашното му куче",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Edmund McMillen",
+    "series": "Mewgenics",
+    "question": "Кой е основният геймплей жанр, който ще представлява дългоочакваната игра Mewgenics?",
+    "answers": [
+      "Метроидвания платформър",
+      "Тактическа ролева игра с походови битки",
+      "Бърз екшън рогалайк от изглед отгоре",
+      "Пъзел игра с карти"
+    ],
+    "correctAnswer": "Тактическа ролева игра с походови битки",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Edmund McMillen",
+    "series": "The Binding of Isaac",
+    "question": "На какво са базирани имената на избираемите герои в играта?",
+    "answers": [
+      "Библията",
+      "Нищо",
+      "Гръцката митология",
+      "Другите игри на Edmund McMillen"
+    ],
+    "correctAnswer": "Библията",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Klei",
+    "series": "Don't Starve",
+    "question": "Кое от тези е един от отличаващите се елементи в играта?",
+    "answers": [
+      "Тъмнината е смъртоносна",
+      "Играча се изхранва на живи същества",
+      "Играта има космически елемент",
+      "Първата игра на Klei която се играе в 1во лице"
+    ],
+    "correctAnswer": "Тъмнината е смъртоносна",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Edmund McMillen",
+    "series": "Mewgenics",
+    "question": "Какви животни отглежда играча?",
+    "answers": [
+      "Котки",
+      "Гълъби",
+      "Плъхове",
+      "Кучета"
+    ],
+    "correctAnswer": "Котки",
+    "difficulty": "Нормално"
+  },
+  {
+    "category": "Rockstar",
+    "series": "Grand Theft Auto",
+    "question": "GTA V се развива в измисления град:",
+    "answers": [
+      "Los Santos",
+      "Liberty City",
+      "Vice City",
+      "San Fierro"
+    ],
+    "correctAnswer": "Los Santos",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Rockstar",
+    "series": "Red Dead Redemption",
+    "question": "Кой е главният герой в Red Dead Redemption 2?",
+    "answers": [
+      "Arthur Morgan",
+      "John Marston",
+      "Dutch van der Linde",
+      "Micah Bell"
+    ],
+    "correctAnswer": "Arthur Morgan",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Xbox",
+    "series": "Halo",
+    "question": "Кой е изкуственият интелект-спътник на Master Chief?",
+    "answers": [
+      "Cortana",
+      "GLaDOS",
+      "EDI",
+      "Alyx"
+    ],
+    "correctAnswer": "Cortana",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Valve",
+    "series": "Half-Life & Portal",
+    "question": "Half-Life 2 се развива в измисления град:",
+    "answers": [
+      "City 17",
+      "Rapture",
+      "Columbia",
+      "Midgar"
+    ],
+    "correctAnswer": "City 17",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Valve",
+    "series": "Half-Life & Portal",
+    "question": "Потискащата извънземна сила, управляваща Земята в Half-Life 2, се нарича:",
+    "answers": [
+      "The Combine",
+      "The Institute",
+      "The Legion",
+      "The Enclave"
+    ],
+    "correctAnswer": "The Combine",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Bethesda",
+    "series": "The Elder Scrolls",
+    "question": "The Elder Scrolls Online е:",
+    "answers": [
+      "MMORPG",
+      "Fighting",
+      "FPS",
+      "Sports"
+    ],
+    "correctAnswer": "MMORPG",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "RentStation",
+    "series": "God of War",
+    "question": "God of War (2018) премества действието от гръцката към:",
+    "answers": [
+      "Скандинавската митология",
+      "Египетската митология",
+      "Римската митология",
+      "Келтската митология"
+    ],
+    "correctAnswer": "Скандинавската митология",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Konami",
+    "series": "Silent Hill 2",
+    "question": "Какво е истинското име на покойната съпруга на Джеймс, чието писмо го призовава в града?",
+    "answers": [
+      "Мария (Maria)",
+      "Мери (Mary)",
+      "Лора (Laura)",
+      "Анджела (Angela)"
+    ],
+    "correctAnswer": "Мери (Mary)",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "EA",
+    "series": "Apex Legends",
+    "question": "Apex Legends се развива в света на по-старата поредица на EA, наречена:",
+    "answers": [
+      "Titanfall",
+      "Crysis",
+      "Mirror's Edge",
+      "Dead Space"
+    ],
+    "correctAnswer": "Titanfall",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "EA",
+    "series": "Dead Space",
+    "question": "В коя игра на EA инженерът Isaac Clarke се бори за живота си на кораба USG Ishimura?",
+    "answers": [
+      "Dead Space",
+      "Titanfall",
+      "Mirror's Edge",
+      "Anthem"
+    ],
+    "correctAnswer": "Dead Space",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Croteam",
+    "series": "Serious Sam",
+    "question": "Как се казва главният герой от поредицата Serious Sam?",
+    "answers": [
+      "Sam Stone",
+      "John Serious",
+      "Serious Sam",
+      "Sam Fisher"
+    ],
+    "correctAnswer": "Sam Stone",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Croteam",
+    "series": "The Talos Principle",
+    "question": "The Talos Principle е игра от жанра:",
+    "answers": [
+      "Философски пъзел",
+      "Файтинг",
+      "Спортна симулация",
+      "Оцеляване"
+    ],
+    "correctAnswer": "Философски пъзел",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Xbox",
+    "series": "Forza",
+    "question": "Forza Horizon е поредица, фокусирана върху:",
+    "answers": [
+      "Състезания с коли на открито",
+      "Космически битки",
+      "Фентъзи RPG",
+      "Хорър оцеляване"
+    ],
+    "correctAnswer": "Състезания с коли на открито",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Xbox",
+    "series": "Forza",
+    "question": "Forza Motorsport се различава от Forza Horizon по това, че се провежда:",
+    "answers": [
+      "На затворени писти",
+      "На открит свят",
+      "Под вода",
+      "В космоса"
+    ],
+    "correctAnswer": "На затворени писти",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Bethesda",
+    "series": "Fallout",
+    "question": "В поредицата Fallout светът след ядрен апокалипсис се нарича:",
+    "answers": [
+      "Пустошта",
+      "Империята",
+      "Съюза",
+      "Метрото"
+    ],
+    "correctAnswer": "Пустошта",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "RentStation",
+    "series": "Ghost of Tsushima",
+    "question": "Ghost of Tsushima се развива по време на монголско нашествие в:",
+    "answers": [
+      "Япония",
+      "Китай",
+      "Корея",
+      "Монголия"
+    ],
+    "correctAnswer": "Япония",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "RentStation",
+    "series": "The Last of Us",
+    "question": "The Last of Us се развива след пандемия, причинена от мутирала:",
+    "answers": [
+      "Гъбичка",
+      "Радиация",
+      "Извънземна инвазия",
+      "Вампирски вирус"
+    ],
+    "correctAnswer": "Гъбичка",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "RentStation",
+    "series": "The Last of Us",
+    "question": "Главните герои в първата част на The Last of Us са Joel и:",
+    "answers": [
+      "Ellie",
+      "Sarah",
+      "Riley",
+      "Tess"
+    ],
+    "correctAnswer": "Ellie",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "RentStation",
+    "series": "Horizon",
+    "question": "В Horizon Zero Dawn главната героиня Aloy живее в свят, доминиран от:",
+    "answers": [
+      "Роботизирани машини",
+      "Извънземни нашественици",
+      "Зомбита",
+      "Дракони"
+    ],
+    "correctAnswer": "Роботизирани машини",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "RentStation",
+    "series": "Marvel's Spider-Man",
+    "question": "В Marvel's Spider-Man 2 играчът превключва между Peter Parker и:",
+    "answers": [
+      "Miles Morales",
+      "Harry Osborn",
+      "Gwen Stacy",
+      "Venom (само)"
+    ],
+    "correctAnswer": "Miles Morales",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "RentStation",
+    "series": "Uncharted",
+    "question": "Главният герой в поредицата Uncharted, търсач на съкровища, се казва:",
+    "answers": [
+      "Nathan Drake",
+      "Sully",
+      "Elena Fisher",
+      "Sam Drake"
+    ],
+    "correctAnswer": "Nathan Drake",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Ubisoft",
+    "series": "Assassin's Creed",
+    "question": "Assassin's Creed следва вековния конфликт между асасините и:",
+    "answers": [
+      "Тамплиерите",
+      "Вампирите",
+      "Инквизицията",
+      "Легиона"
+    ],
+    "correctAnswer": "Тамплиерите",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Ubisoft",
+    "series": "Assassin's Creed",
+    "question": "Assassin's Creed Origins се развива в:",
+    "answers": [
+      "Древен Египет",
+      "Древна Гърция",
+      "Викингска Скандинавия",
+      "Средновековна Франция"
+    ],
+    "correctAnswer": "Древен Египет",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Ubisoft",
+    "series": "Far Cry",
+    "question": "Far Cry 3 е запомнена със злодея на име:",
+    "answers": [
+      "Vaas Montenegro",
+      "Pagan Min",
+      "Joseph Seed",
+      "Anton Castillo"
+    ],
+    "correctAnswer": "Vaas Montenegro",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Ubisoft",
+    "series": "Far Cry",
+    "question": "Far Cry 5 се развива в щата:",
+    "answers": [
+      "Монтана, САЩ",
+      "Флорида, САЩ",
+      "Хаваи, САЩ",
+      "Аляска, САЩ"
+    ],
+    "correctAnswer": "Монтана, САЩ",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Konami",
+    "series": "eFootball / PES",
+    "question": "Konami притежава и футболната симулация, известна днес като:",
+    "answers": [
+      "eFootball",
+      "FIFA",
+      "Football Manager",
+      "NBA 2K"
+    ],
+    "correctAnswer": "eFootball",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Konami",
+    "series": "Castlevania & Contra",
+    "question": "Contra е поредица от жанра:",
+    "answers": [
+      "Run-and-gun екшън",
+      "Пъзел",
+      "RPG",
+      "Симулация"
+    ],
+    "correctAnswer": "Run-and-gun екшън",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Kojima Productions",
+    "series": "Death Stranding",
+    "question": "Death Stranding е режисирана от:",
+    "answers": [
+      "Hideo Kojima",
+      "Yoko Taro",
+      "Fumito Ueda",
+      "Swery65"
+    ],
+    "correctAnswer": "Hideo Kojima",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Kojima Productions",
+    "series": "Death Stranding",
+    "question": "Главният герой в Death Stranding се казва:",
+    "answers": [
+      "Sam Porter Bridges",
+      "Solid Snake",
+      "Big Boss",
+      "Raiden"
+    ],
+    "correctAnswer": "Sam Porter Bridges",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Kojima Productions",
+    "series": "Death Stranding",
+    "question": "Геймплеят на Death Stranding се върти основно около:",
+    "answers": [
+      "Доставка на пратки през опустошен свят",
+      "Космически битки",
+      "Управление на кралство",
+      "Готвене в ресторант"
+    ],
+    "correctAnswer": "Доставка на пратки през опустошен свят",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Kojima Productions",
+    "series": "Death Stranding",
+    "question": "Продължението на дебютната игра на студиото се казва:",
+    "answers": [
+      "Death Stranding 2: On the Beach",
+      "Death Stranding: Origins",
+      "Death Stranding Reborn",
+      "Death Stranding X"
+    ],
+    "correctAnswer": "Death Stranding 2: On the Beach",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Kojima Productions",
+    "series": "Death Stranding",
+    "question": "Комуникационната мрежа, която играчът възстановява в Death Stranding, се нарича:",
+    "answers": [
+      "Chiral Network",
+      "The Grid",
+      "Neural Link",
+      "The Wire"
+    ],
+    "correctAnswer": "Chiral Network",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Capcom",
+    "series": "Resident Evil",
+    "question": "Главните герои в ранните игри на Resident Evil работят за полицейската единица:",
+    "answers": [
+      "S.T.A.R.S.",
+      "S.H.I.E.L.D.",
+      "UNIT",
+      "G-Force"
+    ],
+    "correctAnswer": "S.T.A.R.S.",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Capcom",
+    "series": "Devil May Cry & Mega Man",
+    "question": "Главният герой в Devil May Cry, ловец на демони, се казва:",
+    "answers": [
+      "Dante",
+      "Vergil",
+      "Nero",
+      "Leon"
+    ],
+    "correctAnswer": "Dante",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Capcom",
+    "series": "Devil May Cry & Mega Man",
+    "question": "Mega Man е известен със способността да:",
+    "answers": [
+      "Копира силите на победените роботи",
+      "Лети в космоса",
+      "Строи роботи",
+      "Пътува във времето"
+    ],
+    "correctAnswer": "Копира силите на победените роботи",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Capcom",
+    "series": "Resident Evil",
+    "question": "Resident Evil 4 пренасочва действието към селска местност в:",
+    "answers": [
+      "Испания",
+      "Румъния",
+      "Русия",
+      "Мексико"
+    ],
+    "correctAnswer": "Испания",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Bethesda",
+    "series": "Fallout",
+    "question": "Коя гигантска корпорация отговаря за създаването на Убежищата под прикритието, че спасява човечеството?",
+    "answers": [
+      "RobCo Industries",
+      "Poseidon Energy",
+      "Vault-Tec",
+      "Nuka-Cola Corporation"
+    ],
+    "correctAnswer": "Vault-Tec",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Bethesda",
+    "series": "Fallout",
+    "question": "Коя е основната валута, използвана в Пустошта в почти всички Fallout игри?",
+    "answers": [
+      "Златни монети",
+      "Капачки (Bottle caps)",
+      "Предвоенни пари (Pre-War Money)",
+      "Патрони"
+    ],
+    "correctAnswer": "Капачки (Bottle caps)",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Larian Studios",
+    "series": "Baldur's Gate",
+    "question": "В Baldur's Gate 3, каква е расата на Лае'зел (Lae'zel)?",
+    "answers": [
+      "Елф",
+      "Тифлинг (Tiefling)",
+      "Гитянки (Githyanki)",
+      "Дроу (Drow)"
+    ],
+    "correctAnswer": "Гитянки (Githyanki)",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "2K / Irrational Games",
+    "series": "BioShock",
+    "question": "Кой е индустриалецът-визионер, който основава подводния град Рапчър (Rapture)?",
+    "answers": [
+      "Закари Комсток",
+      "Андрю Райън",
+      "Франк Фонтейн",
+      "Атлас"
+    ],
+    "correctAnswer": "Андрю Райън",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "2K / Irrational Games",
+    "series": "BioShock",
+    "question": "Как се нарича субстанцията, събирана от Малките сестрички, която пренаписва генетичния код?",
+    "answers": [
+      "EVE",
+      "ADAM",
+      "Vigor",
+      "Plasmids"
+    ],
+    "correctAnswer": "ADAM",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Rockstar",
+    "series": "Grand Theft Auto",
+    "question": "В Grand Theft Auto IV, каква е главната причина Нико Белик да отиде в Либърти Сити?",
+    "answers": [
+      "За да стане филмова звезда",
+      "Търси предател от отряда си и е подмамен от Роман",
+      "За да ограби най-голямата банка",
+      "Бяга от ФБР"
+    ],
+    "correctAnswer": "Търси предател от отряда си и е подмамен от Роман",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Croteam",
+    "series": "The Talos Principle",
+    "question": "Как се казва гласът \"от небесата\", който ви напътства из пъзелите и твърди, че е създателят?",
+    "answers": [
+      "GLaDOS",
+      "Елохим (Elohim)",
+      "SHODAN",
+      "Талос"
+    ],
+    "correctAnswer": "Елохим (Elohim)",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Ubisoft",
+    "series": "Assassin's Creed",
+    "question": "Коя историческа епоха посещава Дезмънд чрез Алтаир в първата игра?",
+    "answers": [
+      "Френската революция",
+      "Италианският ренесанс",
+      "Третият кръстоносен поход",
+      "Американската война за независимост"
+    ],
+    "correctAnswer": "Третият кръстоносен поход",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "id Software",
+    "series": "DOOM",
+    "question": "Как се казва изкуственият интелект, който ръководи съоръжението на UAC в DOOM (2016)?",
+    "answers": [
+      "Samuel Hayden",
+      "VEGA",
+      "CORTANA",
+      "AI-Marine"
+    ],
+    "correctAnswer": "VEGA",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Killmonday Games",
+    "series": "Fran Bow",
+    "question": "Какво трябва да погълне Фран, за да се прехвърли в мрачната алтернативна реалност?",
+    "answers": [
+      "Своите червени хапчета",
+      "Черна кръв",
+      "Магическа отвара",
+      "Боб"
+    ],
+    "correctAnswer": "Своите червени хапчета",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Arkane Studios",
+    "series": "Dishonored",
+    "question": "Как се казва мистериозното същество, обгърнато в сенки, което дава сили на Корво?",
+    "answers": [
+      "The Weaver",
+      "The Outsider",
+      "The Empress",
+      "The Void Entity"
+    ],
+    "correctAnswer": "The Outsider",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Bethesda",
+    "series": "The Elder Scrolls",
+    "question": "Кой Даедрически принц е известен като 'Господарят на лудостта' и управлява Shivering Isles?",
+    "answers": [
+      "Molag Bal",
+      "Mehrunes Dagon",
+      "Sheogorath",
+      "Hermaeus Mora"
+    ],
+    "correctAnswer": "Sheogorath",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Bethesda",
+    "series": "Fallout",
+    "question": "Във Fallout: New Vegas, коя компания е произвела роботите 'Securitron', които охраняват Ню Вегас?",
+    "answers": [
+      "Vault-Tec",
+      "RobCo Industries",
+      "Poseidon Energy",
+      "General Atomics International"
+    ],
+    "correctAnswer": "RobCo Industries",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Konami",
+    "series": "Metal Gear",
+    "question": "Коя е тайната организация от философи, контролираща САЩ и световните събития в лора на Metal Gear?",
+    "answers": [
+      "The Patriots",
+      "FOXHOUND",
+      "Outer Heaven",
+      "Diamond Dogs"
+    ],
+    "correctAnswer": "The Patriots",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Riot Games",
+    "series": "League of Legends",
+    "question": "Коя империя в Runeterra е известна със своята експанзионистична политика и брутална военна сила, водена от Swain?",
+    "answers": [
+      "Demacia",
+      "Noxus",
+      "Ionia",
+      "Shurima"
+    ],
+    "correctAnswer": "Noxus",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Rusty Lake",
+    "series": "Lore на поредицата",
+    "question": "Как се казва мистериозната форма на спомени в игрите, които могат да бъдат бели (добри), черни (лоши) или сини?",
+    "answers": [
+      "Сълзи на времето",
+      "Еликсир на живота",
+      "Кубчета на паметта",
+      "Камъни на душата"
+    ],
+    "correctAnswer": "Кубчета на паметта",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Rusty Lake",
+    "series": "Cube Escape: Paradox",
+    "question": "Кой е детективът, който често губи паметта си и разследва смъртта на Лора Вандербум?",
+    "answers": [
+      "Дейл Вандермеер",
+      "Олдъс Вандербум",
+      "Мистър Врана",
+      "Мистър Бухал"
+    ],
+    "correctAnswer": "Дейл Вандермеер",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Rusty Lake",
+    "series": "Rusty Lake Hotel",
+    "question": "Какво е специалното и зловещо изискване на Г-н Бухал (Mr. Owl) към персонала в хотела всяка вечер?",
+    "answers": [
+      "Да пеят песни на гостите",
+      "Да убиват по един гост, за да го сготвят за вечеря",
+      "Да събират всички часовници",
+      "Да заключват вратите отвън"
+    ],
+    "correctAnswer": "Да убиват по един гост, за да го сготвят за вечеря",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Frictional Games",
+    "series": "Amnesia: The Dark Descent",
+    "question": "В оригиналната Amnesia (2010), каква е основната цел на главния герой Даниел според бележката, която сам е написал до себе си?",
+    "answers": [
+      "Да избяга от замъка Бренненбург",
+      "Да убие Александър",
+      "Да намери брат си",
+      "Да унищожи Сянката (The Shadow)"
+    ],
+    "correctAnswer": "Да убие Александър",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Frictional Games",
+    "series": "Amnesia: The Bunker",
+    "question": "В Amnesia: The Bunker, действието се развива на фона на кой голям исторически конфликт?",
+    "answers": [
+      "Втората световна война",
+      "Студената война",
+      "Виетнамската война",
+      "Първата световна война"
+    ],
+    "correctAnswer": "Първата световна война",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Xbox",
+    "series": "Gears, Fable & Sea of Thieves",
+    "question": "Кое митично морско чудовище може да нападне кораба ви напълно случайно в Sea of Thieves, оцветявайки водата в черно?",
+    "answers": [
+      "Мегалодон",
+      "Кракен (Kraken)",
+      "Левиатан",
+      "Сирените"
+    ],
+    "correctAnswer": "Кракен (Kraken)",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Шах",
+    "series": "Шах",
+    "question": "Как се нарича специалният шахматен ход, при който Царят се премества с две полета към един от Топовете на същия хоризонтал, а след това Топът прескача Царя и застава на съседното му поле?",
+    "answers": [
+      "Ан пасан (En passant)",
+      "Произвеждане (Promotion)",
+      "Рокада (Castling)",
+      "Ил Ватикано (Il Vaticano)"
+    ],
+    "correctAnswer": "Рокада (Castling)",
+    "difficulty": "Средно Труден",
+    "bonus": true
+  },
+  {
+    "category": "Amanita Design",
+    "series": "Botanicula",
+    "question": "Какъв е основният враг, който напада дома на героите и срещу който те се борят през цялата игра в Botanicula?",
+    "answers": [
+      "Гигантски метални секачи",
+      "Зли черни паякоподобни паразити",
+      "Огнена буря и горски пожар",
+      "Токсични химически отпадъци"
+    ],
+    "correctAnswer": "Зли черни паякоподобни паразити",
+    "difficulty": "Средно Труден"
+  },
+  {
+    "category": "Konami",
+    "series": "Castlevania & Contra",
+    "question": "Castlevania следва семейство ловци на вампири на име:",
+    "answers": [
+      "Belmont",
+      "Van Helsing",
+      "Dracula",
+      "Alucard"
+    ],
+    "correctAnswer": "Belmont",
+    "difficulty": "Едно ниво над средно"
+  },
+  {
+    "category": "Konami",
+    "series": "Metal Gear",
+    "question": "Metal Gear Solid 3: Snake Eater се развива през:",
+    "answers": [
+      "60-те години на XX век",
+      "80-те години на XX век",
+      "Близкото бъдеще",
+      "90-те години на XX век"
+    ],
+    "correctAnswer": "60-те години на XX век",
+    "difficulty": "Едно ниво над средно"
+  },
+  {
+    "category": "Konami",
+    "series": "Silent Hill",
+    "question": "Silent Hill 2 е прочута с психологическото изследване на темата за:",
+    "answers": [
+      "Вина и загуба",
+      "Извънземно нашествие",
+      "Зомби апокалипсис",
+      "Пътуване във времето"
+    ],
+    "correctAnswer": "Вина и загуба",
+    "difficulty": "Едно ниво над средно"
+  },
+  {
+    "category": "Larian Studios",
+    "series": "Divinity",
+    "question": "В Divinity: Original Sin 2, коя раса притежава мрачната способност да изяжда части от мъртви тела, за да придобива спомените им?",
+    "answers": [
+      "Гулове (Ghouls)",
+      "Немъртви (Undead)",
+      "Орки",
+      "Елфи (Elves)"
+    ],
+    "correctAnswer": "Елфи (Elves)",
+    "difficulty": "Едно ниво над средно"
+  },
+  {
+    "category": "Rusty Lake",
+    "series": "Rusty Lake: Roots",
+    "question": "Чие прокълнато родословно дърво проследява играчът през поколенията, за да създаде Еликсира на живота?",
+    "answers": [
+      "Семейство Ейландер (Eilander)",
+      "Семейство Вандербум (Vanderboom)",
+      "Семейство Роуз (Rose)",
+      "Семейство Вандермеер"
+    ],
+    "correctAnswer": "Семейство Вандербум (Vanderboom)",
+    "difficulty": "Едно ниво над средно"
+  },
+  {
+    "category": "Frictional Games",
+    "series": "Amnesia: Rebirth",
+    "question": "Какво е състоянието на главната героиня Таси Трианон, което добавя допълнително напрежение към оцеляването й в алжирската пустиня?",
+    "answers": [
+      "Тя е бременна",
+      "Заразена е с вампиризъм",
+      "Ослепява бавно",
+      "Носи радиоактивен артефакт"
+    ],
+    "correctAnswer": "Тя е бременна",
+    "difficulty": "Едно ниво над средно"
+  },
+  {
+    "category": "Frictional Games",
+    "series": "SOMA",
+    "question": "Коя е главната цел на проекта 'ARK' (Ковчегът) в SOMA?",
+    "answers": [
+      "Да изстреля ядрени ракети към кометата",
+      "Да изпрати симулация с човешки съзнания в космоса",
+      "Да построи подводен град за елита",
+      "Да върне времето назад"
+    ],
+    "correctAnswer": "Да изпрати симулация с човешки съзнания в космоса",
+    "difficulty": "Едно ниво над средно"
+  },
+  {
+    "category": "EA",
+    "series": "Dead Space",
+    "question": "Какво означава абревиатурата 'USG' пред името на кораба Ishimura в Dead Space?",
+    "answers": [
+      "United Spacecraft Guild",
+      "United States Government",
+      "Universal Star Galactic",
+      "United Solar Group"
+    ],
+    "correctAnswer": "United Spacecraft Guild",
+    "difficulty": "Едно ниво над средно"
+  },
+  {
+    "category": "Croteam",
+    "series": "Serious Sam",
+    "question": "В Serious Sam враговете служат на извънземна заплаха, известна като:",
+    "answers": [
+      "Mental",
+      "The Combine",
+      "Strogg",
+      "The Covenant"
+    ],
+    "correctAnswer": "Mental",
+    "difficulty": "Едно ниво над средно"
+  },
+  {
+    "category": "Supercell",
+    "series": "Clash of Clans",
+    "question": "Какъв е абсолютно максималният брой строители (Builders), които можете да имате в Основното село (Home Village), ако включим и отключването на допълнителния строител (B.O.B/O.T.T.O) от Builder Base?",
+    "answers": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswer": "6",
+    "difficulty": "Едно ниво над средно"
+  },
+  {
+    "category": "Amanita Design",
+    "series": "Machinarium",
+    "question": "Как се казва главният робот, протагонист , в приключенската игра Machinarium, разработена от чешкото студио Amanita Design?",
+    "answers": [
+      "B.O.B.",
+      "Josef",
+      "Pan Tau",
+      "Horatio"
+    ],
+    "correctAnswer": "Josef",
+    "difficulty": "Едно ниво над средно"
+  },
+  {
+    "category": "Amanita Design",
+    "series": "Machinarium",
+    "question": "Кой е основният враг и лидер на престъпната банда (Black Cap Brotherhood), с който Йозеф се сблъсква в Machinarium?",
+    "answers": [
+      "The Controller",
+      "The Black Cap Leader",
+      "Dr. Clockwork",
+      "The Iron General"
+    ],
+    "correctAnswer": "The Black Cap Leader",
+    "difficulty": "Едно ниво над средно"
+  },
+  {
+    "category": "Edmund McMillen",
+    "series": "The Binding of Isaac",
+    "question": "Кой пасивен предмет в The Binding of Isaac не само дава на героя имунитет срещу експлозии, но и го лекува с червени сърца, когато попадне в обсега на бомба?",
+    "answers": [
+      "Pyromaniac",
+      "Host Hat",
+      "Pyro",
+      "Mr. Mega"
+    ],
+    "correctAnswer": "Pyromaniac",
+    "difficulty": "Едно ниво над средно"
+  },
+  {
+    "category": "Klei",
+    "series": "Oxygen Not Included",
+    "question": "Как се наричат управляемите човечета в играта?",
+    "answers": [
+      "Dupes",
+      "Humanoids",
+      "Clones",
+      "The last frontier"
+    ],
+    "correctAnswer": "Dupes",
+    "difficulty": "Едно ниво над средно"
+  },
+  {
+    "category": "Klei",
+    "series": "Don't Starve",
+    "question": "Как се казва главния злодей в историята на играта?",
+    "answers": [
+      "Maxwell",
+      "Wilson",
+      "Willow",
+      "Wendy"
+    ],
+    "correctAnswer": "Maxwell",
+    "difficulty": "Едно ниво над средно"
+  },
+  {
+    "category": "Klei",
+    "series": "Oxygen Not Included",
+    "question": "Къде се развива играта?",
+    "answers": [
+      "На пост-апокалипстична версия на Земята",
+      "На различни астероиди",
+      "На луната",
+      "В симулация"
+    ],
+    "correctAnswer": "На различни астероиди",
+    "difficulty": "Едно ниво над средно"
+  },
+  {
+    "category": "Rockstar",
+    "series": "Red Dead Redemption",
+    "question": "Композиторът на музиката в Red Dead Redemption 2 е:",
+    "answers": [
+      "Woody Jackson",
+      "Hans Zimmer",
+      "Jesper Kyd",
+      "Bear McCreary"
+    ],
+    "correctAnswer": "Woody Jackson",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Bethesda",
+    "series": "The Elder Scrolls",
+    "question": "The Elder Scrolls III носи името:",
+    "answers": [
+      "Morrowind",
+      "Oblivion",
+      "Daggerfall",
+      "Arena"
+    ],
+    "correctAnswer": "Morrowind",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Bethesda",
+    "series": "Fallout",
+    "question": "Главната антагонистична организация във Fallout 3 се нарича:",
+    "answers": [
+      "Enclave",
+      "Brotherhood of Steel",
+      "Legion",
+      "Institute"
+    ],
+    "correctAnswer": "Enclave",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "FromSoftware",
+    "series": "Dark Souls",
+    "question": "Dark Souls се развива в кралството:",
+    "answers": [
+      "Lordran",
+      "Yharnam",
+      "Drangleic",
+      "Limgrave"
+    ],
+    "correctAnswer": "Lordran",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "FromSoftware",
+    "series": "Bloodborne",
+    "question": "Bloodborne се развива в готическия град:",
+    "answers": [
+      "Yharnam",
+      "Lordran",
+      "Drangleic",
+      "Limgrave"
+    ],
+    "correctAnswer": "Yharnam",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "FromSoftware",
+    "series": "Bloodborne",
+    "question": "Bloodborne е повлияна силно от произведенията на писателя:",
+    "answers": [
+      "H.P. Lovecraft",
+      "J.R.R. Tolkien",
+      "Stephen King",
+      "Edgar Allan Poe"
+    ],
+    "correctAnswer": "H.P. Lovecraft",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "FromSoftware",
+    "series": "Elden Ring",
+    "question": "Elden Ring е създадена в сътрудничество с писателя:",
+    "answers": [
+      "Джордж Р. Р. Мартин",
+      "Дж. Р. Р. Толкин",
+      "Нийл Геймън",
+      "Брандън Сандерсън"
+    ],
+    "correctAnswer": "Джордж Р. Р. Мартин",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "FromSoftware",
+    "series": "Elden Ring",
+    "question": "Elden Ring се развива в свят, наречен:",
+    "answers": [
+      "The Lands Between",
+      "Lordran",
+      "Boletaria",
+      "The Nexus"
+    ],
+    "correctAnswer": "The Lands Between",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Konami",
+    "series": "Metal Gear",
+    "question": "Главният герой в оригиналната поредица Metal Gear Solid се казва:",
+    "answers": [
+      "Solid Snake",
+      "Big Boss",
+      "Raiden",
+      "Venom Snake"
+    ],
+    "correctAnswer": "Solid Snake",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Konami",
+    "series": "Metal Gear Solid",
+    "question": "Кое е кодовото име на главния герой, с когото играете в Metal Gear Solid 3: Snake Eater?",
+    "answers": [
+      "Solid Snake",
+      "Naked Snake",
+      "Venom Snake",
+      "Liquid Snake"
+    ],
+    "correctAnswer": "Naked Snake",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Konami",
+    "series": "Metal Gear Solid",
+    "question": "Как се казва елитната снайперистка от MGS V: The Phantom Pain, която диша чрез кожата си?",
+    "answers": [
+      "Sniper Wolf",
+      "The Boss",
+      "Quiet",
+      "Meryl Silverburgh"
+    ],
+    "correctAnswer": "Quiet",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Konami",
+    "series": "Silent Hill (P.T.)",
+    "question": "Кое \"независимо\" студио първоначално беше обявено като разработчик на P.T.?",
+    "answers": [
+      "7780s Studio",
+      "Kojima Productions",
+      "Bloober Team",
+      "Blue Box Game Studios"
+    ],
+    "correctAnswer": "7780s Studio",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Capcom",
+    "series": "Street Fighter",
+    "question": "Финалният бос в оригиналния Street Fighter II е:",
+    "answers": [
+      "M. Bison",
+      "Akuma",
+      "Sagat",
+      "Vega"
+    ],
+    "correctAnswer": "M. Bison",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Blizzard",
+    "series": "World of Warcraft",
+    "question": "Родният свят на орките в игрите на Blizzard се нарича:",
+    "answers": [
+      "Draenor",
+      "Azeroth",
+      "Sanctuary",
+      "Runeterra"
+    ],
+    "correctAnswer": "Draenor",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Blizzard",
+    "series": "World of Warcraft",
+    "question": "StarCraft се развива в конфликт между три раси:",
+    "answers": [
+      "Terran, Zerg и Protoss",
+      "Humans, Orcs и Elves",
+      "UNSC и Covenant",
+      "Alliance и Horde (само)"
+    ],
+    "correctAnswer": "Terran, Zerg и Protoss",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Obsidian / Bethesda",
+    "series": "Fallout",
+    "question": "Във Fallout: New Vegas, как се казва кучето-киборг, което принадлежи на The King?",
+    "answers": [
+      "Dogmeat",
+      "Rex",
+      "ED-E",
+      "Снупи"
+    ],
+    "correctAnswer": "Rex",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Ubisoft",
+    "series": "Assassin's Creed",
+    "question": "Как гласи пълното кредо на Асасините?",
+    "answers": [
+      "Нищо не е истина, всичко е позволено",
+      "Действай в сенките, за да служиш на светлината",
+      "Истината е написана с кръв",
+      "Скритият нож е най-смъртоносен"
+    ],
+    "correctAnswer": "Нищо не е истина, всичко е позволено",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Night School",
+    "series": "Oxenfree",
+    "question": "Как се казва изоставеният военен остров, на който групата тийнейджъри отиват?",
+    "answers": [
+      "Остров Блекуд",
+      "Остров Едуардс (Edwards Island)",
+      "Остров Шадоумоор",
+      "Остров Яматай"
+    ],
+    "correctAnswer": "Остров Едуардс (Edwards Island)",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "EA",
+    "series": "Dead Space",
+    "question": "Как се казва фанатичният религиозен култ, който боготвори Маркерите (Markers) във вселената на Dead Space?",
+    "answers": [
+      "Scientology",
+      "Unitology",
+      "The Marker Church",
+      "Brotherhood of Blood"
+    ],
+    "correctAnswer": "Unitology",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Valve",
+    "series": "Half-Life",
+    "question": "Как се казва инцидентът, който отприщва инвазията от Зен (Xen) в първата Half-Life?",
+    "answers": [
+      "The Seven Hour War",
+      "The Resonance Cascade",
+      "The Black Mesa Event",
+      "The Portal Storm"
+    ],
+    "correctAnswer": "The Resonance Cascade",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Bethesda",
+    "series": "The Elder Scrolls",
+    "question": "Как е истинското име на създателя на Тамриел, често наричан 'Липсващият бог' в лора на Elder Scrolls?",
+    "answers": [
+      "Akatosh",
+      "Lorkhan",
+      "Talos",
+      "Dagoth Ur"
+    ],
+    "correctAnswer": "Lorkhan",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "FromSoftware",
+    "series": "Dark Souls",
+    "question": "Кой е първият от Господарите на Пепелта (Lords of Cinder), когото играчът трябва да победи в Dark Souls 3?",
+    "answers": [
+      "Abyss Watchers",
+      "Yhorm the Giant",
+      "Aldrich, Devourer of Gods",
+      "Lothric, Younger Prince"
+    ],
+    "correctAnswer": "Abyss Watchers",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "RentStation",
+    "series": "God of War",
+    "question": "Какво е истинското име, което Фей (Faye) е искала да даде на Атрей (Atreus) в God of War (2018)?",
+    "answers": [
+      "Odin",
+      "Thor",
+      "Loki",
+      "Tyr"
+    ],
+    "correctAnswer": "Loki",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "RentStation",
+    "series": "The Last of Us",
+    "question": "Как се казва организацията, която се бори срещу FEDRA и търси лек за инфекцията в The Last of Us?",
+    "answers": [
+      "The Seraphites",
+      "The Fireflies",
+      "WLF (Washington Liberation Front)",
+      "The Hunters"
+    ],
+    "correctAnswer": "The Fireflies",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Ubisoft",
+    "series": "Assassin's Creed",
+    "question": "Как се наричат древните същества, създали човечеството, известни още като Ису (Isu)?",
+    "answers": [
+      "The First Civilization",
+      "The Precursors",
+      "The Ancients",
+      "The Templars"
+    ],
+    "correctAnswer": "The First Civilization",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "EA",
+    "series": "Mass Effect",
+    "question": "Как се казва родният свят на расата Кроган (Krogan), който е бил опустошен от ядрена зима още преди Контакта?",
+    "answers": [
+      "Palaven",
+      "Thessia",
+      "Tuchanka",
+      "Sur'Kesh"
+    ],
+    "correctAnswer": "Tuchanka",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "EA",
+    "series": "Dead Space",
+    "question": "Как се нарича първоначалният извънземен артефакт, открит на Земята (Chicxulub crater), който започва култа Unitology?",
+    "answers": [
+      "The Red Marker",
+      "The Black Marker",
+      "The Aegis VII Marker",
+      "The Nexus Marker"
+    ],
+    "correctAnswer": "The Black Marker",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Rockstar",
+    "series": "Grand Theft Auto",
+    "question": "В GTA: San Andreas, коя банда е основният враг на Grove Street Families и е известна с лилавите си дрехи?",
+    "answers": [
+      "Ballas",
+      "Vagos",
+      "Aztecas",
+      "Triads"
+    ],
+    "correctAnswer": "Ballas",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "EA",
+    "series": "Mass Effect",
+    "question": "Как се казва извънземната раса, създала Цитаделата и Мас релетата (според първоначалните вярвания в играта)?",
+    "answers": [
+      "Protheans (Протеанци)",
+      "Reapers (Жътвари)",
+      "Asari (Асари)",
+      "Turians (Турианци)"
+    ],
+    "correctAnswer": "Protheans (Протеанци)",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Valve",
+    "series": "Half-Life",
+    "question": "Кой учен от Black Mesa създава порталната технология на съпротивата и помага на Гордън във Half-Life 2?",
+    "answers": [
+      "Д-р Уолъс Брийн",
+      "Д-р Илай Ванс",
+      "Д-р Айзък Клайнър",
+      "Д-р Арн Магнусон"
+    ],
+    "correctAnswer": "Д-р Айзък Клайнър",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Valve",
+    "series": "Portal",
+    "question": "Какво е истинското име на основателя на Aperture Science?",
+    "answers": [
+      "Cave Johnson",
+      "Wallace Breen",
+      "Doug Rattmann",
+      "GLaDOS"
+    ],
+    "correctAnswer": "Cave Johnson",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "FromSoftware",
+    "series": "Dark Souls",
+    "question": "Кой е рицарят, известен с това, че обикаля Бездната (The Abyss) и чийто вълк Сиф пази гроба му?",
+    "answers": [
+      "Ornstein",
+      "Gwyn",
+      "Artorias",
+      "Smough"
+    ],
+    "correctAnswer": "Artorias",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "FromSoftware",
+    "series": "Elden Ring",
+    "question": "Как се нарича полубогът, прокълнат с Алената гнилост (Scarlet Rot), който никога не е губил битка?",
+    "answers": [
+      "Radahn",
+      "Godrick",
+      "Malenia",
+      "Ranni"
+    ],
+    "correctAnswer": "Malenia",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "FromSoftware",
+    "series": "Bloodborne",
+    "question": "Кое древно космическо същество (Great One) лежи мъртво в рибарското селище и е причината за Проклятието на ловците?",
+    "answers": [
+      "Kos",
+      "Ebrietas",
+      "Oedon",
+      "Amygdala"
+    ],
+    "correctAnswer": "Kos",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Ubisoft",
+    "series": "Assassin's Creed",
+    "question": "Коя е ябълката от Рая (Apple of Eden)? Този артефакт е сътворен от Първата цивилизация (Ису) за...",
+    "answers": [
+      "Генериране на безкрайна енергия",
+      "Манипулация на човешкото съзнание и контрол",
+      "Унищожаване на Земята",
+      "Пътуване във времето"
+    ],
+    "correctAnswer": "Манипулация на човешкото съзнание и контрол",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Konami",
+    "series": "Silent Hill",
+    "question": "От какво точно е вдъхновен емблематичният вид на Пирамидалната глава (Pyramid Head) в Silent Hill 2?",
+    "answers": [
+      "Екзекуторите от старото минало на града",
+      "Символът на ордена на Валтиил",
+      "Рицарите Тамплиери",
+      "Извънземни същества"
+    ],
+    "correctAnswer": "Екзекуторите от старото минало на града",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Capcom",
+    "series": "Resident Evil",
+    "question": "Кой е създателят на T-вируса и съосновател на корпорацията Umbrella?",
+    "answers": [
+      "Albert Wesker",
+      "Oswell E. Spencer",
+      "William Birkin",
+      "James Marcus"
+    ],
+    "correctAnswer": "James Marcus",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Capcom",
+    "series": "Devil May Cry",
+    "question": "Как се казва бащата на Данте и Върджил, легендарният тъмен рицар, спасил човечеството?",
+    "answers": [
+      "Mundus",
+      "Sparda",
+      "Argosax",
+      "Nelo Angelo"
+    ],
+    "correctAnswer": "Sparda",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Blizzard",
+    "series": "World of Warcraft",
+    "question": "Кой Принц на Лордерон се превръща в Краля-лич (The Lich King), след като взима прокълнатия меч Frostmourne?",
+    "answers": [
+      "Illidan Stormrage",
+      "Varian Wrynn",
+      "Arthas Menethil",
+      "Bolvar Fordragon"
+    ],
+    "correctAnswer": "Arthas Menethil",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Konami",
+    "series": "Silent Hill 4: The Room",
+    "question": "Как се казва серийният убиец, чийто ритуал '21 тайнства' е в центъра на сюжета на играта?",
+    "answers": [
+      "Джеймс Съндърланд",
+      "Ричард Брейнтри",
+      "Уолтър Съливан",
+      "Травис Грейди"
+    ],
+    "correctAnswer": "Уолтър Съливан",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Konami",
+    "series": "Silent Hill: Homecoming",
+    "question": "Кое е родното градче на главния герой Алекс Шепърд, което има дълбоки и мрачни връзки със Сайлънт Хил?",
+    "answers": [
+      "Толука Лейк",
+      "Брамс",
+      "Саут Вейл",
+      "Шепърдс Глен"
+    ],
+    "correctAnswer": "Шепърдс Глен",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Rusty Lake",
+    "series": "Rusty Lake: Paradise",
+    "question": "На какъв библейски мотив е базиран сюжетът на Rusty Lake: Paradise на прокълнатия остров?",
+    "answers": [
+      "Десетте египетски язви",
+      "Седемте смъртни гряха",
+      "Апокалипсисът на Йоан",
+      "Разделянето на Червено море"
+    ],
+    "correctAnswer": "Десетте египетски язви",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Rusty Lake",
+    "series": "Cube Escape: Seasons",
+    "question": "В коя година се развива първото ниво 'Пролет' (Spring) в първата игра Cube Escape: Seasons?",
+    "answers": [
+      "1981",
+      "1964",
+      "1971",
+      "1935"
+    ],
+    "correctAnswer": "1964",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Frictional Games",
+    "series": "SOMA",
+    "question": "Как се казва подводната изследователска станция в SOMA, която е последното убежище на човечеството след падането на комета?",
+    "answers": [
+      "Rapture",
+      "PATHOS-II",
+      "Oceanus",
+      "Tartarus"
+    ],
+    "correctAnswer": "PATHOS-II",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Frictional Games",
+    "series": "SOMA",
+    "question": "Кой е изкуственият интелект, който превзема подводната станция в SOMA и създава чудовищата, вярвайки, че така 'спасява' хората?",
+    "answers": [
+      "SHODAN",
+      "GLaDOS",
+      "WAU",
+      "The Red Queen"
+    ],
+    "correctAnswer": "WAU",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Croteam",
+    "series": "The Talos Principle",
+    "question": "В The Talos Principle, кой е мистериозният асистент, с когото комуникирате чрез компютърните терминали?",
+    "answers": [
+      "GLaDOS",
+      "Milton",
+      "The Serpent",
+      "SOMA"
+    ],
+    "correctAnswer": "Milton",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Croteam",
+    "series": "The Talos Principle",
+    "question": "Името 'Талос' (Talos) в играта произлиза от:",
+    "answers": [
+      "Древногръцката митология (гигантски бронзов автоматон)",
+      "Изкуствен интелект на НАСА",
+      "Съкращение на Test Algorithm Logic Operating System",
+      "Египетски бог на знанието"
+    ],
+    "correctAnswer": "Древногръцката митология (гигантски бронзов автоматон)",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Croteam",
+    "series": "The Talos Principle",
+    "question": "В The Talos Principle 2 главният герой носи специфичен номер, отбелязващ го като последния създаден робот. Кой е той?",
+    "answers": [
+      "999",
+      "1K (1000)",
+      "Omega",
+      "100"
+    ],
+    "correctAnswer": "1K (1000)",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Croteam",
+    "series": "Serious Sam",
+    "question": "От коя историческа епоха започва приключението на Сам в оригиналната 'The First Encounter'?",
+    "answers": [
+      "Древен Рим",
+      "Средновековна Европа",
+      "Древен Египет",
+      "Маите в Южна Америка"
+    ],
+    "correctAnswer": "Древен Египет",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Rockstar",
+    "series": "L.A. Noire",
+    "question": "L.A. Noire стана известна с революционната си (но скъпа) технология за лицеви анимации. Как се наричаше тя?",
+    "answers": [
+      "Mocap+",
+      "FaceID Capture",
+      "MotionScan",
+      "L.A. Capture"
+    ],
+    "correctAnswer": "MotionScan",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Xbox",
+    "series": "Halo",
+    "question": "Какъв е спартанският идентификационен номер на Master Chief в Halo?",
+    "answers": [
+      "Spartan-104",
+      "Noble-6",
+      "John-117",
+      "Sierra-112"
+    ],
+    "correctAnswer": "John-117",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Xbox",
+    "series": "Gears, Fable & Sea of Thieves",
+    "question": "В първата игра Fable (2004), как се нарича главният антагонист, който носи мистериозна маска?",
+    "answers": [
+      "Тъкачът",
+      "Лорд Луциан",
+      "Джак от Остриетата",
+      "Пророкът"
+    ],
+    "correctAnswer": "Джак от Остриетата",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Niantic",
+    "series": "Pokémon GO",
+    "question": "Кой покемон се крие на картата, дегизиран като други обикновени покемони, и разкрива истинската си форма едва след като бъде уловен?",
+    "answers": [
+      "Mew",
+      "Zoroark",
+      "Smeargle",
+      "Ditto"
+    ],
+    "correctAnswer": "Ditto",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Mojang",
+    "series": "Minecraft Pocket Edition",
+    "question": "Кой блоков предмет беше добавен ексклузивно в ранното мобилно издание (Pocket Edition) за генериране на кула от netherrack , в която падат различни предмети, преди по-късно да бъде премахнат от нормалната игра?",
+    "answers": [
+      "Command Block",
+      "Nether Reactor Core",
+      "Crying Obsidian",
+      "Glowing Obsidian"
+    ],
+    "correctAnswer": "Nether Reactor Core",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Шах",
+    "series": "Шах",
+    "question": "Какво представлява шахматен ход „Il Vaticano“?",
+    "answers": [
+      "Ход, при който Царят и Царицата си разменят местата, за да се избегне сигурен мат",
+      "Размяна на местата на два офицера от един цвят, при която се вземат две противникови фигури между тях",
+      "Правото да върнеш взет Офицер на дъската, ако доброволно пожертваш две свои пешки",
+      "Измислено правило, според което пешка не може да бъде взета 'ан пасан', ако е защитена от Офицер"
+    ],
+    "correctAnswer": "Размяна на местата на два офицера от един цвят, при която се вземат две противникови фигури между тях",
+    "difficulty": "Много трудно",
+    "bonus": true
+  },
+  {
+    "category": "Edmund McMillen",
+    "series": "The Binding of Isaac",
+    "question": "За отключването на 'Tainted' (алтернативни) версии на героите в The Binding of Isaac: Repentance, играчът трябва да достигне кое конкретно ниво?",
+    "answers": [
+      "The Void",
+      "Dark Room",
+      "Home",
+      "???"
+    ],
+    "correctAnswer": "Home",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "Edmund McMillen",
+    "series": "Mewgenics",
+    "question": "Колко класа могат да бъдат котките, които играча изпраща на мисии?",
+    "answers": [
+      "14",
+      "2",
+      "6",
+      "18"
+    ],
+    "correctAnswer": "14",
+    "difficulty": "Много трудно"
+  },
+  {
+    "category": "EA",
+    "series": "Mass Effect",
+    "question": "Кое студио на EA разработва поредицата Mass Effect?",
+    "answers": [
+      "BioWare",
+      "Respawn Entertainment",
+      "Criterion Games",
+      "Codemasters"
+    ],
+    "correctAnswer": "BioWare",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Kojima Productions",
+    "series": "История на студиото",
+    "question": "Kojima Productions е основана след раздялата на Hideo Kojima със студиото:",
+    "answers": [
+      "Konami",
+      "Capcom",
+      "Square Enix",
+      "Sony"
+    ],
+    "correctAnswer": "Konami",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "EA",
+    "series": "Apex Legends",
+    "question": "Кой игрови engine захранва Battlefield и по-новите EA Sports FC игри?",
+    "answers": [
+      "Frostbite",
+      "Unreal Engine",
+      "id Tech",
+      "Source"
+    ],
+    "correctAnswer": "Frostbite",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "EA",
+    "series": "Apex Legends",
+    "question": "Titanfall (предшественикът на Apex Legends) е разработена от студиото:",
+    "answers": [
+      "Respawn Entertainment",
+      "DICE",
+      "Criterion Games",
+      "Maxis"
+    ],
+    "correctAnswer": "Respawn Entertainment",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Croteam",
+    "series": "The Talos Principle",
+    "question": "Croteam разработва игрите си със собствен engine, наречен:",
+    "answers": [
+      "Serious Engine",
+      "Unreal Engine",
+      "Frostbite",
+      "CryEngine"
+    ],
+    "correctAnswer": "Serious Engine",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Croteam",
+    "series": "The Talos Principle",
+    "question": "The Talos Principle 2 излиза през коя година?",
+    "answers": [
+      "2023",
+      "2021",
+      "2019",
+      "2024"
+    ],
+    "correctAnswer": "2023",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Rockstar",
+    "series": "Grand Theft Auto",
+    "question": "Rockstar North, създателите на GTA, е базирано в:",
+    "answers": [
+      "Единбург, Шотландия",
+      "Ню Йорк, САЩ",
+      "Лондон, Англия",
+      "Дъблин, Ирландия"
+    ],
+    "correctAnswer": "Единбург, Шотландия",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Xbox",
+    "series": "Gears, Fable & Sea of Thieves",
+    "question": "The Coalition поема разработката на коя поредица от Epic Games?",
+    "answers": [
+      "Gears of War",
+      "Halo",
+      "Fable",
+      "Forza"
+    ],
+    "correctAnswer": "Gears of War",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Xbox",
+    "series": "Gears, Fable & Sea of Thieves",
+    "question": "Fable е фентъзи RPG поредица, създадена първоначално от студиото:",
+    "answers": [
+      "Lionhead Studios",
+      "BioWare",
+      "Bungie",
+      "Rare"
+    ],
+    "correctAnswer": "Lionhead Studios",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Xbox",
+    "series": "Halo",
+    "question": "Bungie, оригиналните създатели на Halo, по-късно създават поредицата:",
+    "answers": [
+      "Destiny",
+      "Titanfall",
+      "Anthem",
+      "Borderlands"
+    ],
+    "correctAnswer": "Destiny",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Xbox",
+    "series": "Halo",
+    "question": "Halo: Combat Evolved излиза за първи път през:",
+    "answers": [
+      "2001",
+      "1999",
+      "2003",
+      "2004"
+    ],
+    "correctAnswer": "2001",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Bethesda",
+    "series": "Doom (id Software)",
+    "question": "Doom е разработена от студио, притежавано от Bethesda/ZeniMax, наречено:",
+    "answers": [
+      "id Software",
+      "Arkane Studios",
+      "MachineGames",
+      "Obsidian"
+    ],
+    "correctAnswer": "id Software",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "FromSoftware",
+    "series": "Dark Souls",
+    "question": "Armored Core, по-старата поредица на FromSoftware, е от жанра:",
+    "answers": [
+      "Екшън с мехове (роботи)",
+      "Спортна симулация",
+      "Хорър оцеляване",
+      "Файтинг"
+    ],
+    "correctAnswer": "Екшън с мехове (роботи)",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "FromSoftware",
+    "series": "Dark Souls",
+    "question": "Demon's Souls, предшественикът на Dark Souls, излиза първо за конзолата:",
+    "answers": [
+      "PlayStation 3",
+      "Xbox 360",
+      "Nintendo Wii",
+      "PlayStation 5"
+    ],
+    "correctAnswer": "PlayStation 3",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "RentStation",
+    "series": "Ghost of Tsushima",
+    "question": "Ghost of Tsushima е разработена от студиото:",
+    "answers": [
+      "Sucker Punch Productions",
+      "Naughty Dog",
+      "Insomniac Games",
+      "Bluepoint Games"
+    ],
+    "correctAnswer": "Sucker Punch Productions",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "RentStation",
+    "series": "Marvel's Spider-Man",
+    "question": "Marvel's Spider-Man (2018) е разработена от студиото:",
+    "answers": [
+      "Insomniac Games",
+      "Naughty Dog",
+      "Santa Monica Studio",
+      "Guerrilla Games"
+    ],
+    "correctAnswer": "Insomniac Games",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "RentStation",
+    "series": "Uncharted",
+    "question": "Uncharted е разработена от студиото:",
+    "answers": [
+      "Naughty Dog",
+      "Insomniac Games",
+      "Sucker Punch",
+      "Bend Studio"
+    ],
+    "correctAnswer": "Naughty Dog",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Ubisoft",
+    "series": "Rainbow Six & Prince of Persia",
+    "question": "Prince of Persia: The Sands of Time (2003), която възражда поредицата, е издадена от:",
+    "answers": [
+      "Ubisoft",
+      "EA",
+      "Activision",
+      "THQ"
+    ],
+    "correctAnswer": "Ubisoft",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Riot Games",
+    "series": "Valorant",
+    "question": "Riot Games е основана от Brandon Beck и:",
+    "answers": [
+      "Marc Merrill",
+      "Gabe Newell",
+      "Todd Howard",
+      "Phil Spencer"
+    ],
+    "correctAnswer": "Marc Merrill",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Riot Games",
+    "series": "League of Legends",
+    "question": "League of Legends е пусната за първи път през:",
+    "answers": [
+      "2009",
+      "2011",
+      "2013",
+      "2007"
+    ],
+    "correctAnswer": "2009",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Mojang",
+    "series": "Minecraft",
+    "question": "Minecraft е закупена от компанията:",
+    "answers": [
+      "Microsoft",
+      "Sony",
+      "EA",
+      "Valve"
+    ],
+    "correctAnswer": "Microsoft",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Mojang",
+    "series": "Minecraft",
+    "question": "Minecraft излиза в пълна версия (1.0) през:",
+    "answers": [
+      "2011",
+      "2009",
+      "2013",
+      "2014"
+    ],
+    "correctAnswer": "2011",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Blizzard",
+    "series": "World of Warcraft",
+    "question": "Blizzard Entertainment е основана през:",
+    "answers": [
+      "1991",
+      "1994",
+      "1998",
+      "2001"
+    ],
+    "correctAnswer": "1991",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Midway / NetherRealm",
+    "series": "Mortal Kombat",
+    "question": "Вярно ли е, че червената нинджа Ermac е бил отключваем персонаж в Mortal Kombat 1 (1992)?",
+    "answers": [
+      "Да, отключваше се с таен код",
+      "Да, но само на аркадни машини",
+      "Не, това беше мит от грешка в менюто (Error Macro)",
+      "Не, той беше DLC"
+    ],
+    "correctAnswer": "Не, това беше мит от грешка в менюто (Error Macro)",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Rockstar",
+    "series": "Grand Theft Auto",
+    "question": "Как се казва актьорът, който изиграва и озвучава емблематичния Тревър Филипс в GTA V?",
+    "answers": [
+      "Ned Luke",
+      "Shawn Fonteno",
+      "Steven Ogg",
+      "Ray Liotta"
+    ],
+    "correctAnswer": "Steven Ogg",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Frictional Games",
+    "series": "Amnesia",
+    "question": "Коя игра от поредицата Amnesia НЕ е разработена директно от Frictional Games, а от студиото The Chinese Room?",
+    "answers": [
+      "Amnesia: The Dark Descent",
+      "Amnesia: Rebirth",
+      "Amnesia: The Bunker",
+      "Amnesia: A Machine for Pigs"
+    ],
+    "correctAnswer": "Amnesia: A Machine for Pigs",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "EA",
+    "series": "EA Sports FC",
+    "question": "През 2023 г. FIFA се преименува на EA Sports FC. Как се казваше ПЪРВАТА игра от оригиналната поредица, излязла през 1993 г.?",
+    "answers": [
+      "FIFA 94",
+      "FIFA International Soccer",
+      "EA Soccer 93",
+      "FIFA World Cup"
+    ],
+    "correctAnswer": "FIFA International Soccer",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "EA",
+    "series": "EA Sports FC",
+    "question": "Преди да се наложи като 'EA Sports', спортното подразделение на Electronic Arts носеше друго име. Кое е то?",
+    "answers": [
+      "EA Sports Network (EASN)",
+      "Electronic Arts Athletics",
+      "EA Interactive",
+      "EA Sports FC"
+    ],
+    "correctAnswer": "EA Sports Network (EASN)",
+    "difficulty": "Доста трудни"
+  },
+  {
+    "category": "Konami",
+    "series": "Metal Gear",
+    "question": "Metal Gear Solid е създадена от геймдизайнера:",
+    "answers": [
+      "Hideo Kojima",
+      "Shigeru Miyamoto",
+      "Hidetaka Miyazaki",
+      "Yoko Taro"
+    ],
+    "correctAnswer": "Hideo Kojima",
+    "difficulty": "Доста трудни"
+  }
+]

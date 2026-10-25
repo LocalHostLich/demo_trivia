@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="bg">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>ГЕЙМИНГ ТРИВИЯ</title>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Oswald:wght@400;500;700&display=swap&subset=cyrillic"
+    rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div id="credits">v3.0</div>
+
+  <div id="app">
+    <span class="backbar" id="backBtn" style="display:none;">&lt; НАЧАЛО</span>
+
+    <!-- START -->
+    <div class="screen active" id="screen-start">
+      <div class="title-block">
+        <h1>ТРИВИЯ</h1>
+      </div>
+      <div class="section-label">&gt; РЕЖИМ НА ИЗБОР</div>
+      <div class="pill-row" id="modeRow">
+        <div class="pill selected" data-mode="quick">БЪРЗ ИЗБОР</div>
+        <div class="pill" data-mode="detailed">ПОДРОБЕН ИЗБОР</div>
+      </div>
+
+      <div class="setup-panel" id="quickPanel">
+        <div class="tier-grid" id="tierGrid"></div>
+      </div>
+
+      <div class="setup-panel is-hidden" id="detailedPanel">
+        <div class="section-label">&gt; ИЗБЕРИ СТУДИА (натисни "ПОРЕДИЦИ" за конкретни серии) · ИЗБРАНИ ВЪПРОСИ: <span
+            id="selCount">0</span></div>
+        <div class="cat-grid" id="catGrid"></div>
+      </div>
+
+      <button class="btn big" id="startBtn" onclick="startTest()">[ СТАРТ ]</button>
+      <div class="err-msg" id="startErr"></div>
+    </div>
+
+    <!-- QUIZ -->
+    <div class="screen" id="screen-quiz">
+      <div class="quiz-wrap">
+        <div class="quiz-meta">
+          <span>ВЪПРОС <span id="qIdx">1</span>/<span id="qTotal">11</span></span>
+          <span class="bonus-tag" id="bonusTag" style="display:none;">&#9733; БОНУС</span>
+          <span class="quiz-cat" id="qCat">EA</span>
+        </div>
+        <div class="progress-bar">
+          <div class="progress-fill" id="progFill" style="width:10%;"></div>
+        </div>
+
+        <div class="spoiler-box" id="spoilerBox" style="display:none;">
+          <div class="spoiler-icon">⚠</div>
+          <div class="spoiler-title">ВНИМАНИЕ ЗА СПОЙЛЕР</div>
+          <div class="spoiler-text" id="spoilerText"></div>
+          <div class="nav-row">
+            <button class="btn" onclick="acknowledgeSpoiler()">[ ПОКАЖИ ВЪПРОСА ]</button>
+            <button class="btn ghost" id="spoilerSkipBtn" onclick="swapQuestion()">[ СМЕНИ ВЪПРОСА ]</button>
+          </div>
+        </div>
+
+        <div class="q-box" id="qText">Въпрос...</div>
+        <div class="opts" id="qOpts"></div>
+
+        <div class="nav-row">
+          <button class="btn ghost" id="prevBtn" onclick="navQuestion(-1)">[ &lt; ПРЕДИШЕН ]</button>
+          <button class="btn" id="nextBtn" onclick="navQuestion(1)">[ СЛЕДВАЩ &gt; ]</button>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="screen" id="screen-summary">
+      <div class="title-block">
+        <h1>КРАЙ НА ТЕСТА</h1>
+        <div class="sub">// ФИНАЛЕН РЕЗУЛТАТ</div>
+      </div>
+      <div class="code-display" id="summaryText">0 / 0</div>
+      <div class="score-lines" id="scoreLines"></div>
+      <div class="nav-row">
+        <button class="btn ghost" onclick="exportStats()">[ ИЗТЕГЛИ СТАТИСТИКА (CSV) ]</button>
+        <button class="btn" onclick="resetAll()">[ НОВ ТЕСТ ]</button>
+      </div>
+      <div class="err-msg" id="exportStatsErr"></div>
+      <div class="stats-wrap" id="statsWrap"></div>
+    </div>
+  </div>
+
+  <div class="modal-overlay" id="seriesModal">
+    <div class="modal-box">
+      <h3 id="modalTitle">СТУДИО</h3>
+      <div class="modal-sub">Избери кои поредици да участват в теста</div>
+      <div id="modalSeriesList"></div>
+      <div class="modal-actions">
+        <button class="btn small ghost" onclick="closeSeriesModal()">[ ГОТОВО ]</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
